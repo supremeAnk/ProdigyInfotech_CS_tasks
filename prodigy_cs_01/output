@@ -1,0 +1,35 @@
+------------------------
+|  Caesar Cipher Tool  |
+------------------------
+
+  1. Encrypt
+  2. Decrypt
+  3. Exit
+
+  Enter choice (1/2/3): 1
+
+  Enter message to encrypt: Hello
+  Enter shift key (1-25): 3
+
+  Encrypted:
+  Khoor
+
+  1. Encrypt
+  2. Decrypt
+  3. Exit
+
+  Enter choice (1/2/3): 2
+
+  Enter cipher to decrypt: Khoor
+  Enter shift key (1-25): 3
+
+  Decrypted:
+  Hello
+
+  1. Encrypt
+  2. Decrypt
+  3. Exit
+
+  Enter choice (1/2/3): 3
+
+  Goodbye!
