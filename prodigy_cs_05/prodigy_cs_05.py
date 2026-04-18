@@ -20,9 +20,7 @@ def packetCallback(packet):
             print(f"Other IP Packet: {ipSrc} ---> {ipDest} (Protocol: {protocol})")
 
 def main():
-    print("\n--------------------")
-    print("|  Packet Sniffer  |")
-    print("--------------------")
+    print("Network Analyzer")
     sniff(filter="ip", prn=packetCallback, store=0)
 
 if __name__ == "__main__":
