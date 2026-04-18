@@ -16,9 +16,7 @@ def xor_image(input_path, output_path, key):
 
 def main():
     while True:
-        print("\n-------------------------------")
-        print("|  Image XOR Encryption Tool  |")
-        print("-----------------------------------")
+        print("Pixel Manipulation: ")
         print("1. Encrypt Image")
         print("2. Decrypt Image")
         print("3. Exit")
