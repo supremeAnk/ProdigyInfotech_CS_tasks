@@ -31,9 +31,7 @@ def showResult(label, text):
 
 
 def main():
-    print("\n------------------------")
-    print("|  Caesar Cipher Tool  |")
-    print("------------------------")
+    print("Caesar Cipher Tool: ")
 
     while True:
         print("\n  1. Encrypt")
