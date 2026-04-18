@@ -43,9 +43,7 @@ def check_password(password):
 
 
 def main():
-    print("\n-------------------------------")
-    print("|  Password Strength Checker  |")
-    print("-------------------------------")
+    print("Password Checker")
     while True:
         print("\n1. Check Password")
         print("2. Exit")
