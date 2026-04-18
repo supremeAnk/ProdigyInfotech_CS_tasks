@@ -21,9 +21,7 @@ def onPress(key):
         return False
 
 def main():
-    print("\n---------------")
-    print("|  Keylogger  |")
-    print("---------------")
+    print("Simple Keylogger")
     print("Starting keylogger......")
     print("Press ESC to stop the keylogger.")
     
